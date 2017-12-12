@@ -4,6 +4,11 @@
 ![](https://raw.githubusercontent.com/wiki/Hzhihua/yii2-frappe-charts/charts-2.png)
 ![](https://raw.githubusercontent.com/wiki/Hzhihua/yii2-frappe-charts/charts-1.png)
 
+## 安装
+```cmd
+composer require hzhihua/yii2-frappe-charts
+```
+
 ## 使用
 在模板中添加html标签
 ```html

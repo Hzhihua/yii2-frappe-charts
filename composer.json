@@ -1,15 +1,15 @@
 {
-    "name": "hzhihua/frappe-charts",
-    "description": "svg charts",
+    "name": "hzhihua/yii2-frappe-charts",
+    "description": "yii2 svg charts",
     "keywords": ["yii2", "extension", "frappe", "chart", "charts", "svg"],
-    "homepage": "https://github.com/Hzhihua/frappe-charts",
+    "homepage": "https://github.com/Hzhihua/yii2-frappe-charts",
     "type": "yii2-widget",
     "license": "BSD-3",
     "authors": [
     {
         "name": "Hzhihua",
         "email": "cnzhihua@gmail.com",
-        "homepage": "https://github.com/Hzhihua/frappe-charts"
+        "homepage": "https://github.com/Hzhihua/yii2-frappe-charts"
     }
     ],
     "require": {
