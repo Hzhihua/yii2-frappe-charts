@@ -122,7 +122,7 @@ class Charts extends Widget
         $data = $this->array2json($this->getData());
         $config = $this->array2js($this->getConfig());
         $other = $this->getOther();
-        $js = sprintf(";let data = %s;let chart = new Chart(%s);%s;", $data, $config, $other);
+        $js = sprintf(";var data = %s;var chart = new Chart(%s);%s;", $data, $config, $other);
         return $js;
     }
 
