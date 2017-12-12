@@ -1,0 +1,34 @@
+{
+    "name": "hzhihua/frappe-charts",
+    "description": "svg charts",
+    "keywords": ["yii2", "extension", "frappe", "chart", "charts", "svg"],
+    "homepage": "https://github.com/Hzhihua/frappe-charts",
+    "type": "yii2-widget",
+    "license": "BSD-3",
+    "authors": [
+    {
+        "name": "Hzhihua",
+        "email": "cnzhihua@gmail.com",
+        "homepage": "https://github.com/Hzhihua/frappe-charts"
+    }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.9",
+        "npm-asset/frappe-charts": "~0.0.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "hzhihua\\frappe\\": "src"
+        }
+    },
+    "config": {
+        "process-timeout": 1800,
+            "fxp-asset":{
+                "installer-paths": {
+                "npm-asset-library": "vendor/npm",
+                "bower-asset-library": "vendor/bower"
+            }
+        }
+    }
+}
