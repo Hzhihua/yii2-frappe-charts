@@ -1,8 +1,7 @@
 # Yii2 frappe-charts widget
 [frappe-charts](https://github.com/frappe/charts) [frappe-charts-demo](https://frappe.github.io/charts/)
 ## 预览图
-![](https://raw.githubusercontent.com/wiki/Hzhihua/yii2-frappe-charts/charts-2.png)
-![](https://raw.githubusercontent.com/wiki/Hzhihua/yii2-frappe-charts/charts-1.png)
+![](https://raw.githubusercontent.com/frappe/charts/master/.github/example.gif)
 
 ## 安装
 ```cmd
