@@ -4,7 +4,7 @@
     "keywords": ["yii2", "extension", "frappe", "chart", "charts", "svg"],
     "homepage": "https://github.com/Hzhihua/yii2-frappe-charts",
     "type": "yii2-widget",
-    "license": "BSD-3",
+    "license": "BSD-3-Clause",
     "authors": [
     {
         "name": "Hzhihua",
