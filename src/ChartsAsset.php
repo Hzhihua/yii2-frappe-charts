@@ -17,9 +17,7 @@ use yii\web\AssetBundle;
  */
 class ChartsAsset extends AssetBundle
 {
-    public $sourcePath = '@npm/frappe-charts/dist';
-
     public $js = [
-        'frappe-charts.min.iife.js',
+        'https://cdn.jsdelivr.net/npm/frappe-charts@1.0.0/dist/frappe-charts.min.iife.js',
     ];
 }

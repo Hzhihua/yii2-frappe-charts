@@ -14,8 +14,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "yiisoft/yii2": "~2.0.9",
-        "npm-asset/frappe-charts": "~0.0.8"
+        "yiisoft/yii2": "~2.0.9"
     },
     "autoload": {
         "psr-4": {
@@ -23,12 +22,6 @@
         }
     },
     "config": {
-        "process-timeout": 1800,
-            "fxp-asset":{
-                "installer-paths": {
-                "npm-asset-library": "vendor/npm",
-                "bower-asset-library": "vendor/bower"
-            }
-        }
+        "process-timeout": 1800
     }
 }
